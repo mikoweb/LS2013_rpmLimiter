@@ -10,7 +10,8 @@ Dynamic change RPM Speed.
 
 ## Installation
 
-1. Download the zip package and unpack into `Documents\My Games\FarmingSimulator2013` directory.
+1. First install Framework By Miko.
+2. Download the zip package and unpack into `Documents\My Games\FarmingSimulator2013` directory.
 2. Run file: `Documents\My Games\FarmingSimulator2013\mods-fw\rpmLimiter\enable.bat`
 
 ## About
