@@ -4,7 +4,7 @@ Dynamic change RPM Speed.
 
 !(/rpm-limiter.jpg)
 
-## Required
+## Required Mods
 
 1. [Framework By Miko](https://github.com/mikoweb/LS2013_FrameworkByMiko)
 
