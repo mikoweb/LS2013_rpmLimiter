@@ -2,7 +2,7 @@
 
 Dynamic change RPM Speed.
 
-!(https://github.com/mikoweb/LS2013_rpmLimiter/blob/master/rpm-limiter.jpg)
+![alt rpmLimiter](https://github.com/mikoweb/LS2013_rpmLimiter/blob/master/rpm-limiter.jpg)
 
 ## Required Mods
 
