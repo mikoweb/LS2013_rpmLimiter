@@ -24,3 +24,6 @@ Dynamic change RPM Speed.
 **General Public License v3**
 
 **Author**: [Rafał Mikołajun](http://www.swiat-ls.pl/spolecznosc/3-miko/profile.html)
+
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/0b850836397bd55ccc687c0fd536398e "githalytics.com")](http://githalytics.com/mikoweb/LS2013_rpmLimiter)
